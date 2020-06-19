@@ -8,7 +8,7 @@ coverage
 Sphinx
 twine
 Click
-netCDF4
+netCDF4==1.5.3
 dask
 distributed
 xarray
