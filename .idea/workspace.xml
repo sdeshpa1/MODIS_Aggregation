@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements_dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements_dev.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +12,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirements_dev.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MODIS/baseline_series.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="43" column="35" lean-forward="true" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+              <folding>
+                <element signature="n#!!doc" />
+                <element signature="e#60#1359#1" />
+                <element signature="e#1696#1925#0" />
+                <element signature="e#1957#2744#0" />
+                <element signature="e#2073#2135#0" />
+                <element signature="e#2793#5130#0" />
+                <element signature="e#2950#2994#0" />
+                <element signature="e#3432#3726#0" />
+                <element signature="e#3555#3726#0" />
+                <element signature="e#4293#4656#0" />
+                <element signature="e#4437#4656#0" />
+                <element signature="e#5301#7900#0" />
+                <element signature="e#5301#5334#0" />
+                <element signature="e#5392#5503#0" />
+                <element signature="e#5543#5654#0" />
+                <element signature="e#5753#5856#0" />
+                <element signature="e#6033#6331#0" />
+                <element signature="e#6209#6331#0" />
+                <element signature="e#6336#6367#0" />
+                <element signature="e#6727#7214#0" />
+                <element signature="e#6933#7010#0" />
+                <element signature="e#7037#7214#0" />
+                <element signature="e#7220#7254#0" />
+                <element signature="e#8096#12571#0" />
+                <element signature="e#8233#12549#0" />
+                <element signature="e#8849#9091#0" />
+                <element signature="e#8893#9015#0" />
+                <element signature="e#9405#9449#0" />
+                <element signature="e#9578#12549#0" />
+                <element signature="e#9761#12549#0" />
+                <element signature="e#9969#10015#0" />
+                <element signature="e#10250#10412#0" />
+                <element signature="e#10917#12549#0" />
+                <element signature="e#11017#11062#0" />
+                <element signature="e#11557#11611#0" />
+                <element signature="e#11978#12130#0" />
+                <element signature="e#12666#14005#0" />
+                <element signature="e#12666#13066#1" />
+                <element signature="e#13310#13465#0" />
+                <element signature="e#13484#13639#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -198,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592602994824</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="verisons addedd">
+      <created>1592603180503</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592603180503</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -232,7 +289,8 @@
     <MESSAGE value="Commit" />
     <MESSAGE value="Changes in CFA Test" />
     <MESSAGE value="verison addedd for netCDF4" />
-    <option name="LAST_COMMIT_MESSAGE" value="verison addedd for netCDF4" />
+    <MESSAGE value="verisons addedd" />
+    <option name="LAST_COMMIT_MESSAGE" value="verisons addedd" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../../MODIS/MODIS_Aggregation/setup.py">
@@ -324,10 +382,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MODIS/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#129#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements_dev.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MODIS/baseline_series.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="332" lean-forward="true" selection-start-line="332" selection-end-line="332" />
+        <state relative-caret-position="220">
+          <caret line="43" column="35" lean-forward="true" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
           <folding>
             <element signature="n#!!doc" />
             <element signature="e#60#1359#1" />
@@ -370,30 +452,6 @@
             <element signature="e#13310#13465#0" />
             <element signature="e#13484#13639#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MODIS/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-          <folding>
-            <element signature="e#129#168#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements_dev.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
