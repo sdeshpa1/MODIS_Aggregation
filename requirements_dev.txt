@@ -12,3 +12,5 @@ netCDF4
 dask
 distributed
 xarray
+h5py
+mpi4py
