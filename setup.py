@@ -11,12 +11,10 @@ with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
 install_requires = set()
-with open( "requirements_dev.txt" ) as f:
-  for dep in f.read().split('\n'):
-      if dep.strip() != '' and not dep.startswith('-e'):
-          install_requires.add( dep )
-
-
+with open("requirements_dev.txt") as f:
+    for dep in f.read().split('\n'):
+        if dep.strip() != '' and not dep.startswith('-e'):
+            install_requires.add(dep)
 
 setup(
     author="Jianwu Wang",
