@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="Commit">
+    <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modis_cfa_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/modis_cfa_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements_dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements_dev.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,56 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/setup.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modis_cfa_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirements_dev.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MODIS/cloud_fraction_aggregate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MODIS/baseline_series.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" selection-start-column="15" selection-end-column="15" />
-              <folding>
-                <element signature="e#1361#1370#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -93,9 +48,9 @@
         <option value="$PROJECT_DIR$/MODIS/__init__.py" />
         <option value="$PROJECT_DIR$/modis_test.py" />
         <option value="$PROJECT_DIR$/modis_baseline_series_test.py" />
-        <option value="$PROJECT_DIR$/requirements_dev.txt" />
         <option value="$PROJECT_DIR$/MODIS/baseline_series.py" />
         <option value="$PROJECT_DIR$/modis_cfa_test.py" />
+        <option value="$PROJECT_DIR$/requirements_dev.txt" />
       </list>
     </option>
   </component>
@@ -116,6 +71,11 @@
             <path>
               <item name="MODIS_Aggregation" type="b2602c69:ProjectViewProjectNode" />
               <item name="MODIS_Aggregation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MODIS_Aggregation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MODIS_Aggregation" type="462c0819:PsiDirectoryNode" />
+              <item name="MODIS" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -224,7 +184,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592602300141</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Changes in CFA Test">
+      <created>1592602357276</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592602357276</updated>
+    </task>
+    <task id="LOCAL-00008" summary="verison addedd for netCDF4">
+      <created>1592602994824</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1592602994824</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -256,7 +230,9 @@
     <MESSAGE value="Setup.py formatting" />
     <MESSAGE value="getInputDirectories -- parameterized function" />
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="Changes in CFA Test" />
+    <MESSAGE value="verison addedd for netCDF4" />
+    <option name="LAST_COMMIT_MESSAGE" value="verison addedd for netCDF4" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../../MODIS/MODIS_Aggregation/setup.py">
@@ -270,16 +246,6 @@
     <entry file="file://$PROJECT_DIR$/MODIS/MODIS/__init__.py" />
     <entry file="file://$PROJECT_DIR$/MODIS/setup.py" />
     <entry file="file://$PROJECT_DIR$/MODIS/MODIS/cloud_fraction_aggregate.py" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="170">
-            <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../MODIS/MODIS_Aggregation/source/baseline/baseline_series_v8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -309,33 +275,6 @@
         <state relative-caret-position="-80" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements_dev.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MODIS/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#129#168#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MODIS/cloud_fraction_aggregate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modis_baseline_series_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4140">
@@ -346,30 +285,115 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/modis_cfa_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MODIS/cloud_fraction_aggregate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="24" selection-end-line="95" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#147#3234#0" />
+            <element signature="e#147#739#1" />
+            <element signature="e#756#1303#0" />
+            <element signature="e#2803#2846#0" />
+            <element signature="e#3264#3890#0" />
+            <element signature="e#3947#4456#0" />
+            <element signature="e#4097#4246#0" />
+            <element signature="e#4516#4807#0" />
+            <element signature="e#4516#4618#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MODIS/baseline_series.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        <state relative-caret-position="408">
+          <caret line="332" lean-forward="true" selection-start-line="332" selection-end-line="332" />
           <folding>
-            <element signature="e#1361#1370#0" expanded="true" />
+            <element signature="n#!!doc" />
+            <element signature="e#60#1359#1" />
+            <element signature="e#1696#1925#0" />
+            <element signature="e#1957#2744#0" />
+            <element signature="e#2073#2135#0" />
+            <element signature="e#2793#5130#0" />
+            <element signature="e#2950#2994#0" />
+            <element signature="e#3432#3726#0" />
+            <element signature="e#3555#3726#0" />
+            <element signature="e#4293#4656#0" />
+            <element signature="e#4437#4656#0" />
+            <element signature="e#5301#7900#0" />
+            <element signature="e#5301#5334#0" />
+            <element signature="e#5392#5503#0" />
+            <element signature="e#5543#5654#0" />
+            <element signature="e#5753#5856#0" />
+            <element signature="e#6033#6331#0" />
+            <element signature="e#6209#6331#0" />
+            <element signature="e#6336#6367#0" />
+            <element signature="e#6727#7214#0" />
+            <element signature="e#6933#7010#0" />
+            <element signature="e#7037#7214#0" />
+            <element signature="e#7220#7254#0" />
+            <element signature="e#8096#12571#0" />
+            <element signature="e#8233#12549#0" />
+            <element signature="e#8849#9091#0" />
+            <element signature="e#8893#9015#0" />
+            <element signature="e#9405#9449#0" />
+            <element signature="e#9578#12549#0" />
+            <element signature="e#9761#12549#0" />
+            <element signature="e#9969#10015#0" />
+            <element signature="e#10250#10412#0" />
+            <element signature="e#10917#12549#0" />
+            <element signature="e#11017#11062#0" />
+            <element signature="e#11557#11611#0" />
+            <element signature="e#11978#12130#0" />
+            <element signature="e#12666#14005#0" />
+            <element signature="e#12666#13066#1" />
+            <element signature="e#13310#13465#0" />
+            <element signature="e#13484#13639#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MODIS/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#129#168#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        <state relative-caret-position="357">
+          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modis_cfa_test.py">
+    <entry file="file://$PROJECT_DIR$/requirements_dev.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
