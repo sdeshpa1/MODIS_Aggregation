@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements_dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements_dev.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modis_cfa_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/modis_cfa_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,60 +14,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/requirements_dev.txt">
+        <entry file="file://$PROJECT_DIR$/modis_cfa_test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MODIS/baseline_series.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="43" column="35" lean-forward="true" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
-                <element signature="n#!!doc" />
-                <element signature="e#60#1359#1" />
-                <element signature="e#1696#1925#0" />
-                <element signature="e#1957#2744#0" />
-                <element signature="e#2073#2135#0" />
-                <element signature="e#2793#5130#0" />
-                <element signature="e#2950#2994#0" />
-                <element signature="e#3432#3726#0" />
-                <element signature="e#3555#3726#0" />
-                <element signature="e#4293#4656#0" />
-                <element signature="e#4437#4656#0" />
-                <element signature="e#5301#7900#0" />
-                <element signature="e#5301#5334#0" />
-                <element signature="e#5392#5503#0" />
-                <element signature="e#5543#5654#0" />
-                <element signature="e#5753#5856#0" />
-                <element signature="e#6033#6331#0" />
-                <element signature="e#6209#6331#0" />
-                <element signature="e#6336#6367#0" />
-                <element signature="e#6727#7214#0" />
-                <element signature="e#6933#7010#0" />
-                <element signature="e#7037#7214#0" />
-                <element signature="e#7220#7254#0" />
-                <element signature="e#8096#12571#0" />
-                <element signature="e#8233#12549#0" />
-                <element signature="e#8849#9091#0" />
-                <element signature="e#8893#9015#0" />
-                <element signature="e#9405#9449#0" />
-                <element signature="e#9578#12549#0" />
-                <element signature="e#9761#12549#0" />
-                <element signature="e#9969#10015#0" />
-                <element signature="e#10250#10412#0" />
-                <element signature="e#10917#12549#0" />
-                <element signature="e#11017#11062#0" />
-                <element signature="e#11557#11611#0" />
-                <element signature="e#11978#12130#0" />
-                <element signature="e#12666#14005#0" />
-                <element signature="e#12666#13066#1" />
-                <element signature="e#13310#13465#0" />
-                <element signature="e#13484#13639#0" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -100,8 +52,8 @@
         <option value="$PROJECT_DIR$/modis_test.py" />
         <option value="$PROJECT_DIR$/modis_baseline_series_test.py" />
         <option value="$PROJECT_DIR$/MODIS/baseline_series.py" />
-        <option value="$PROJECT_DIR$/modis_cfa_test.py" />
         <option value="$PROJECT_DIR$/requirements_dev.txt" />
+        <option value="$PROJECT_DIR$/modis_cfa_test.py" />
       </list>
     </option>
   </component>
@@ -116,6 +68,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,21 +76,15 @@
               <item name="MODIS_Aggregation" type="b2602c69:ProjectViewProjectNode" />
               <item name="MODIS_Aggregation" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="MODIS_Aggregation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MODIS_Aggregation" type="462c0819:PsiDirectoryNode" />
-              <item name="MODIS" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/modis_test.py" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/Python_Practice" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -270,14 +217,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592603411716</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="verisons addedd">
+      <created>1592603499915</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1592603499915</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24244833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -308,41 +262,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="verisons addedd" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../MODIS/MODIS_Aggregation/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MODIS/MODIS_Aggregation/setup.py" />
     <entry file="file://$PROJECT_DIR$/MODIS/requirements_dev.txt" />
     <entry file="file://$PROJECT_DIR$/MODIS/MODIS/__init__.py" />
     <entry file="file://$PROJECT_DIR$/MODIS/setup.py" />
     <entry file="file://$PROJECT_DIR$/MODIS/MODIS/cloud_fraction_aggregate.py" />
-    <entry file="file://$PROJECT_DIR$/../../MODIS/MODIS_Aggregation/source/baseline/baseline_series_v8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="588" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MODIS/baseline_series_v8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modis_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MODIS/MODIS_Aggregation/source/baseline/baseline_series_v8.py" />
+    <entry file="file://$PROJECT_DIR$/MODIS/baseline_series_v8.py" />
+    <entry file="file://$PROJECT_DIR$/modis_test.py" />
     <entry file="file://$PROJECT_DIR$/tests/test_MODIS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-80" />
@@ -355,26 +282,6 @@
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modis_cfa_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="170">
-            <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -414,10 +321,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="238">
+            <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/MODIS/baseline_series.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="43" column="35" lean-forward="true" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+          <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
           <folding>
             <element signature="n#!!doc" />
             <element signature="e#60#1359#1" />
@@ -465,8 +385,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/requirements_dev.txt">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modis_cfa_test.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
