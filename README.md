@@ -4,7 +4,7 @@
 ### Installation
 ```
 >> git clone https://github.com/sdeshpa1/MODIS_Aggregation.git
->> cd MODIS_Aggregation
+>> cd MODIS
 >> python setup.py install
 ```
 
