@@ -4,7 +4,7 @@ import glob
 import xarray as xr
 
 if __name__ == '__main__':
-    M06_dir_path = 'X'
+    M06_dir_path = '/Users/pwalk/OneDrive/Desktop/MODIS_Main/MODIS_Aggregation/resources/data/sample_input_data/MYD06_L2'
     M03_dir_path = 'Y'
     M03_dir, M06_dir = getInputDirectories(M06_dir_path,M03_dir_path)
 
