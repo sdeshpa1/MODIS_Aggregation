@@ -10,7 +10,7 @@ if __name__ == '__main__':
 
     M03_files = sorted(glob.glob(M03_dir + "MYD03.A2008*"))
     M06_files = sorted(glob.glob(M06_dir + "MYD06_L2.A2008*"))
-    # t0 = time.time()
+    t0 = time.time()
     # # calculate cloud fraction
     # cf = calculateCloudFraction(M03_files, M06_files)
     # # calculate execution time
