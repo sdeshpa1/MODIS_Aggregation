@@ -13,9 +13,9 @@ from .baseline_series import *
 # be able to access:
 __all__ = [
     'aggregateOneFileData'
-    , 'getInputDirectories'
-    , 'calculateCloudFraction'
     ,'displayOutput'
+    ,'calculateCloudFraction'
+    ,'getInputDirectories'
     ,'read_filelist'
     ,'readEntry'
     ,'read_MODIS'
