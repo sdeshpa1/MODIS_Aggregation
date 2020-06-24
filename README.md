@@ -2,6 +2,7 @@
 [![Binder](https://binder.pangeo.io/badge.svg)](https://binder.pangeo.io/v2/gh/big-data-lab-umbc/MODIS-Aggregation/master)
 
 ### Installation
+#### Conda environment setup
 ```
 conda create -n MODIS_Aggregation -c conda-forge python=3.6 libnetcdf netCDF4 netCDF4 dask distributed xarray h5py mpi4py
 
