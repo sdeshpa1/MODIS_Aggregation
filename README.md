@@ -3,6 +3,8 @@
 
 ### Installation
 ```
+conda create -n MODIS_Aggregation -c conda-forge python=3.6 libnetcdf netCDF4 netCDF4 dask distributed xarray h5py mpi4py
+
 >> git clone https://github.com/sdeshpa1/MODIS_Aggregation.git
 >> cd MODIS
 >> python setup.py install

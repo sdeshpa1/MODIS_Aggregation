@@ -5,7 +5,7 @@ import timeit
 from datetime import date, datetime
 from dateutil.rrule import rrule, DAILY, MONTHLY
 import h5py
-
+from MODIS import *
 
 if __name__ == '__main__':
     # This is the main program for using concurrent to speed up the whole process
