@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="" />
+    <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modis_baseline_series_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modis_cfa_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -223,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593651108541</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Chnaged MODIS to MODIS_Aggregation">
+      <created>1593651125474</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1593651125474</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -249,10 +261,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1593033197072" />
-    <state x="222" y="0" key="CommitChangelistDialog2" timestamp="1593651107862">
+    <state x="222" y="0" key="CommitChangelistDialog2" timestamp="1593651124695">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="222" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1593651107862" />
+    <state x="222" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1593651124695" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1593058590303">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -277,10 +289,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593024852570" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1593651044181">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1593651132054">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1593651044181" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1593651132054" />
     <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593651114504">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
