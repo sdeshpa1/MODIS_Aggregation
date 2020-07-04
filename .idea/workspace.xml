@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="" />
+    <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/conf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.rst" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +28,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/Python_Practice" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -237,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593651591694</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Structure Changes">
+      <created>1593651669790</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1593651669790</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -264,38 +277,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1593033197072" />
-    <state x="222" y="0" key="CommitChangelistDialog2" timestamp="1593651590739">
+    <state x="222" y="0" key="CommitChangelistDialog2" timestamp="1593651668872">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="222" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1593651590739" />
+    <state x="222" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1593651668872" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1593058590303">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1593058590303" />
-    <state width="1259" height="97" key="GridCell.Tab.0.bottom" timestamp="1593037142173">
+    <state width="1259" height="252" key="GridCell.Tab.0.bottom" timestamp="1593883448737">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="97" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593037142173" />
-    <state width="1259" height="97" key="GridCell.Tab.0.center" timestamp="1593037142173">
+    <state width="1259" height="252" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593883448737" />
+    <state width="1259" height="252" key="GridCell.Tab.0.center" timestamp="1593883448737">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="97" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593037142173" />
-    <state width="1259" height="97" key="GridCell.Tab.0.left" timestamp="1593037142172">
+    <state width="1259" height="252" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593883448737" />
+    <state width="1259" height="252" key="GridCell.Tab.0.left" timestamp="1593883448736">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="97" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593037142172" />
-    <state width="1259" height="97" key="GridCell.Tab.0.right" timestamp="1593037142173">
+    <state width="1259" height="252" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593883448736" />
+    <state width="1259" height="252" key="GridCell.Tab.0.right" timestamp="1593883448737">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="97" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593037142173" />
+    <state width="1259" height="252" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593883448737" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1593024852570">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593024852570" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1593651594679">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1593651672313">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1593651594679" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1593651672313" />
     <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593651114504">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
