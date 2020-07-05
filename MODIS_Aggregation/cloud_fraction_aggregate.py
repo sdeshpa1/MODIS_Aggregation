@@ -86,9 +86,7 @@ def calculateCloudFraction(M03_files, M06_files):
     return cf
 
 
-def getInputDirectories(M03_dir_path, M06_dir_path):
-    # M03_dir = "/Users/lakshmipriyanka/Project/MODIS_Aggregation/resources/data/input_data_sample/MYD03/"
-    # M06_dir = "/Users/lakshmipriyanka/Project/MODIS_Aggregation/resources/data/input_data_sample/MYD06/"
-    M03_dir = M03_dir_path
-    M06_dir = M06_dir_path
+def getInputDirectories():
+    M03_dir = "/Users/lakshmipriyanka/Project/MODIS_Aggregation/resources/data/input_data_sample/MYD03/"
+    M06_dir = "/Users/lakshmipriyanka/Project/MODIS_Aggregation/resources/data/input_data_sample/MYD06/"
     return M03_dir, M06_dir

@@ -1,11 +1,11 @@
 =======
-Credits
+Authors
 =======
 
 Development Lead
 ----------------
 
-* Sukhada Deshpande <sdeshpa1@umbc.edu>
+* Lakshmi Priyanka
 
 Contributors
 ------------
