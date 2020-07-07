@@ -1,3 +1,13 @@
+MODIS-Aggregation
+==================
+.. image:: https://readthedocs.org/projects/modis-aggregation/badge/?version=latest
+  :target: https://modis-aggregation.readthedocs.io/en/latest/?badge=latest
+  :alt: Documentation Status
+
+Documentaion
+=============
+Read the documentation online at: http://modis-aggregation.rtfd.io
+
 Environment Setup
 ==================
 # MODIS-Aggregation
@@ -10,13 +20,17 @@ Environment Setup
 conda create -n MODIS_Aggregation -c conda-forge python=3.7 libnetcdf netCDF4 netCDF4 dask distributed xarray h5py
 
 >> git clone https://github.com/sdeshpa1/MODIS_Aggregation.git
->> cd MODIS
+>> cd MODIS_Aggregation
 >> python setup.py install
 ```
+Source Code
+=============
+https://github.com/sdeshpa1/MODIS_Aggregation
 
 The code is tested with Python 3.7
 
 # Team members
+=================
 - PI: [Dr. Jianwu Wang](https://userpages.umbc.edu/~jianwu/), Department of Information Systems, UMBC
 - Co-I: [Dr. Zhibo Zhang](https://physics.umbc.edu/people/faculty/zhang/), Department of Physics, UMBC
 - Co-I: Steven Platnick, NASA Goddard Space Flight Center
