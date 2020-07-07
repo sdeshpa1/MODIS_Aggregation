@@ -3,20 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AUTHORS.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/AUTHORS.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/CONTRIBUTING.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HISTORY.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/HISTORY.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MODIS_Aggregation/cloud_fraction_aggregate.py" beforeDir="false" afterPath="$PROJECT_DIR$/MODIS_Aggregation/cloud_fraction_aggregate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/README.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/authors.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/contributing.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/history.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/installation.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/make.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/readme.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/usage.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/modis_cfa_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/modis_cfa_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/conf.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593887333696</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Sphinx Html file created">
+      <created>1593980790848</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1593980790848</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -309,45 +304,46 @@
     <MESSAGE value="Structure Changes" />
     <MESSAGE value="Sphinx added" />
     <MESSAGE value="Delete Spx files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delete Spx files" />
+    <MESSAGE value="Sphinx Html file created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sphinx Html file created" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593976654362">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1593976654362" />
-    <state x="222" y="0" key="CommitChangelistDialog2" timestamp="1593887332816">
+    <state x="140" y="0" key="CommitChangelistDialog2" timestamp="1593980789254">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="222" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1593887332816" />
+    <state x="140" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1593980789254" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1593976652869">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1593976652869" />
-    <state width="1259" height="24" key="GridCell.Tab.0.bottom" timestamp="1593976973002">
+    <state width="1259" height="24" key="GridCell.Tab.0.bottom" timestamp="1594039960284">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="24" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593976973002" />
-    <state width="1259" height="24" key="GridCell.Tab.0.center" timestamp="1593976973002">
+    <state width="1259" height="24" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1594039960284" />
+    <state width="1259" height="24" key="GridCell.Tab.0.center" timestamp="1594039960284">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="24" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593976973002" />
-    <state width="1259" height="24" key="GridCell.Tab.0.left" timestamp="1593976973002">
+    <state width="1259" height="24" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1594039960284" />
+    <state width="1259" height="24" key="GridCell.Tab.0.left" timestamp="1594039960283">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="24" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593976973002" />
-    <state width="1259" height="24" key="GridCell.Tab.0.right" timestamp="1593976973002">
+    <state width="1259" height="24" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1594039960283" />
+    <state width="1259" height="24" key="GridCell.Tab.0.right" timestamp="1594039960284">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="24" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593976973002" />
+    <state width="1259" height="24" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1594039960284" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1593024852570">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593024852570" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1593887338143">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1593980794937">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1593887338143" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1593980794937" />
     <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593887264975">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
