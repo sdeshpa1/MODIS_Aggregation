@@ -8,7 +8,7 @@ python:
 #  - 3.5
 
 before_install:
-    - pip insall-U pip
+    - pip install -U pip
     - pip install -U pytest
 
 install: pip install setup.py
