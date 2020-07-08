@@ -21,6 +21,12 @@ before_install:
     - source activate testenv
 #    - pip install -U pip
 #    - pip install -U pytest
+env:
+  global:
+    # List package dependencies for conda
+    - CONDA_DEPS="netCDF4 dask distributed xarray h5py mpi4py"
+    # package name for test invocation
+    - PACKAGENAME="MODIS_Aggregation"
 
 install: pip install setup.py
 
