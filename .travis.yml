@@ -6,9 +6,8 @@ python:
 #  - 3.7
 #  - 3.6
 #  - 3.5
-cache: pip
-install: "pip install -r requirements_dev.txt"
-script: python MODIS_Aggregation/tests/test_MODIS.py
+
+install: pip setup.py install
 
 #before_install:
 #    - python --verison
@@ -19,8 +18,8 @@ script: python MODIS_Aggregation/tests/test_MODIS.py
 #    - pip install -r requirements_dev.txt
 #    #pip install -U tox-travis
 #
-## Command to run tests, e.g. python setup.py test
-#script: pytest
+# Command to run tests, e.g. python setup.py test
+script: pytest $PACKAGENAME
 
 # Assuming you have installed the travis-ci CLI tool, after you
 # create the Github repo and add it to Travis, run the
