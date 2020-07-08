@@ -3,12 +3,12 @@
 language: python
 python:
   - 3.8
-  - 3.7
-  - 3.6
-  - 3.5
+#  - 3.7
+#  - 3.6
+#  - 3.5
 cache: pip
 install: "pip install -r requirements_dev.txt"
-script: python test_MODIS.py
+script: python MODIS_Aggregation/tests/test_MODIS.py
 
 #before_install:
 #    - python --verison
