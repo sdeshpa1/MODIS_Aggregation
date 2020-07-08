@@ -7,7 +7,7 @@ python:
 #  - 3.6
 #  - 3.5
 
-install: pip setup.py install
+install: pip install setup.py
 
 #before_install:
 #    - python --verison
