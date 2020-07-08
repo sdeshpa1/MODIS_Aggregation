@@ -342,12 +342,18 @@
       <option name="project" value="LOCAL" />
       <updated>1594217124255</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Travis YML changed">
+      <created>1594217279686</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1594217279686</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Changes in the README.md File" />
     <MESSAGE value="Changes to requirements_dev.txt file -  Removed version numbers" />
     <MESSAGE value="Setup.py formatting" />
     <MESSAGE value="getInputDirectories -- parameterized function" />
@@ -372,17 +378,18 @@
     <MESSAGE value="Edited requirements_dev.txt file" />
     <MESSAGE value="Edited travis.yml file" />
     <MESSAGE value="Folder structure changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Folder structure changed" />
+    <MESSAGE value="Travis YML changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Travis YML changed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593976654362">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1593976654362" />
-    <state x="262" y="0" key="CommitChangelistDialog2" timestamp="1594217123445">
+    <state x="262" y="0" key="CommitChangelistDialog2" timestamp="1594217278999">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="262" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1594217123445" />
+    <state x="262" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1594217278999" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1593976652869">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -407,10 +414,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593024852570" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1594217125865">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1594217281936">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1594217125865" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1594217281936" />
     <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593887264975">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
