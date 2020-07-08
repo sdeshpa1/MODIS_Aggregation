@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements_dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements_dev.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,14 +34,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation_Master\MODIS_Aggregation\docs\source" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation_Master\MODIS_Aggregation\docs\source" />
       <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation\MODIS_Aggregation\MODIS" />
       <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation\MODIS_Aggregation" />
       <recent name="C:\Users\pwalk\PycharmProjects\MODIS_Aggregation\MODIS\MODIS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation_Master\MODIS_Aggregation" />
+      <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation_Master\MODIS_Aggregation\docs\source" />
     </key>
   </component>
   <component name="RunManager">
@@ -302,7 +303,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594133018972</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Edited travis.yml">
+      <created>1594214475427</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1594214475427</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Edited travis.yml">
+      <created>1594214659475</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1594214659475</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -327,17 +342,18 @@
     <MESSAGE value="Sphinx Html file created" />
     <MESSAGE value="Edited conf.py file" />
     <MESSAGE value="Edited README.rst" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edited README.rst" />
+    <MESSAGE value="Edited travis.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited travis.yml" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593976654362">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1593976654362" />
-    <state x="140" y="0" key="CommitChangelistDialog2" timestamp="1594133018206">
+    <state x="140" y="0" key="CommitChangelistDialog2" timestamp="1594214658692">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="140" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1594133018206" />
+    <state x="140" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1594214658692" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1593976652869">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -362,10 +378,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593024852570" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1594133021705">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1594214662580">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1594133021705" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1594214662580" />
     <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593887264975">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
