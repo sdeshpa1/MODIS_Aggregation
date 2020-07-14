@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Intro/getting-started-with-sphinx.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Intro/getting-started-with-sphinx.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/README.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Intro/getting-started-with-sphinx.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/getting-started-with-sphinx.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/source/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/index.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,15 +39,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation_Master\MODIS_Aggregation\docs\source" />
+      <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation_Master\MODIS_Aggregation" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation_Master\MODIS_Aggregation\docs\source" />
       <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation\MODIS_Aggregation\MODIS" />
       <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation\MODIS_Aggregation" />
       <recent name="C:\Users\pwalk\PycharmProjects\MODIS_Aggregation\MODIS\MODIS" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation_Master\MODIS_Aggregation" />
-      <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation_Master\MODIS_Aggregation\docs\source" />
     </key>
   </component>
   <component name="RunManager">
@@ -84,13 +83,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592319933812</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Changes in the README.md File">
-      <created>1592600108902</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1592600108902</updated>
     </task>
     <task id="LOCAL-00002" summary="Changes to requirements_dev.txt file -  Removed version numbers">
       <created>1592601000564</created>
@@ -428,12 +420,18 @@
       <option name="project" value="LOCAL" />
       <updated>1594763445533</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="README.rst and index.rst changes">
+      <created>1594764639916</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1594764639917</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Commit" />
     <MESSAGE value="Changes in CFA Test" />
     <MESSAGE value="verison addedd for netCDF4" />
     <MESSAGE value="verisons addedd" />
@@ -458,17 +456,18 @@
     <MESSAGE value="index.rst changes" />
     <MESSAGE value="index.rst and README.rst changes" />
     <MESSAGE value="README.rst changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="README.rst changes" />
+    <MESSAGE value="README.rst and index.rst changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.rst and index.rst changes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594242364070">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1594242364070" />
-    <state x="262" y="0" key="CommitChangelistDialog2" timestamp="1594763444668">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1594764638927">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="262" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1594763444668" />
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1594764638927" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1593976652869">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -493,10 +492,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593024852570" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1594763448156">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1594764643019">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1594763448156" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1594764643019" />
     <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593887264975">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
