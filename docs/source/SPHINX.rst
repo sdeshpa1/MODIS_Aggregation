@@ -10,7 +10,7 @@ Sphinx is a powerful documentation generator that has many great features for wr
 
 Quick start
 -------------
-* Assuming you have Python already, :ref:`install Sphinx<https://www.sphinx-doc.org/en/master/>`
+* Assuming you have Python already, `Install Sphinx <https://www.sphinx-doc.org/en/master/>`_
 
 .. prompt:: bash $
 
