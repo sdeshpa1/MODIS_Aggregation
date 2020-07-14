@@ -1,8 +1,8 @@
 MODIS-Aggregation
 ==================
 .. image:: https://readthedocs.org/projects/modis-aggregation/badge/?version=latest
-  :target: https://modis-aggregation.readthedocs.io/en/latest/?badge=latest
-  :alt: Documentation Status
+:target: https://modis-aggregation.readthedocs.io/en/latest/?badge=latest
+:alt: Documentation Status
 
 Documentation
 =============

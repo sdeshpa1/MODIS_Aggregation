@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/source/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/README.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -405,12 +404,18 @@
       <option name="project" value="LOCAL" />
       <updated>1594761466429</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="index.rst and README.rst changes">
+      <created>1594762610499</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1594762610499</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="getInputDirectories -- parameterized function" />
     <MESSAGE value="Commit" />
     <MESSAGE value="Changes in CFA Test" />
     <MESSAGE value="verison addedd for netCDF4" />
@@ -435,17 +440,18 @@
     <MESSAGE value="Travis YML changed" />
     <MESSAGE value="README.rst changes" />
     <MESSAGE value="index.rst changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="index.rst changes" />
+    <MESSAGE value="index.rst and README.rst changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="index.rst and README.rst changes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594242364070">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1594242364070" />
-    <state x="262" y="0" key="CommitChangelistDialog2" timestamp="1594761465251">
+    <state x="262" y="0" key="CommitChangelistDialog2" timestamp="1594762609665">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="262" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1594761465251" />
+    <state x="262" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1594762609665" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1593976652869">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -470,10 +476,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593024852570" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1594761471544">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1594762613159">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1594761471544" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1594762613159" />
     <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593887264975">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
