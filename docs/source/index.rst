@@ -4,7 +4,7 @@ Welcome to MODIS_Aggregation's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   getting-started-with-sphinx.rst
+   SPHINX.rst
    README.rst
    CONTRIBUTING.rst
    AUTHORS.rst
