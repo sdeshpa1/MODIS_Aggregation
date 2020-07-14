@@ -5,6 +5,7 @@ Welcome to MODIS_Aggregation's documentation!
    :caption: Contents:
 
    SPHINX.rst
+   IMPORTDOC.rst
    README.rst
    CONTRIBUTING.rst
    AUTHORS.rst
