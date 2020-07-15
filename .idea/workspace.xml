@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/source/FEATURES.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/IMPORTDOC.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/IMPORTDOC.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/index.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,13 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592319933812</updated>
-    </task>
-    <task id="LOCAL-00008" summary="verison addedd for netCDF4">
-      <created>1592602994824</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1592602994824</updated>
     </task>
     <task id="LOCAL-00009" summary="verisons addedd">
       <created>1592603180503</created>
@@ -427,12 +419,18 @@
       <option name="project" value="LOCAL" />
       <updated>1594769620232</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="FEATURES.rst changed">
+      <created>1594773854285</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1594773854285</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Changes in CFA Test" />
     <MESSAGE value="verison addedd for netCDF4" />
     <MESSAGE value="verisons addedd" />
     <MESSAGE value="modis_cfa_test file updated" />
@@ -457,17 +455,18 @@
     <MESSAGE value="index.rst and README.rst changes" />
     <MESSAGE value="README.rst changes" />
     <MESSAGE value="README.rst and index.rst changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="README.rst and index.rst changes" />
+    <MESSAGE value="FEATURES.rst changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="FEATURES.rst changed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594242364070">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1594242364070" />
-    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1594769619384">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1594773852901">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1594769619384" />
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1594773852901" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1593976652869">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -492,10 +491,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593024852570" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1594769623447">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1594773859171">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1594769623447" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1594773859171" />
     <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593887264975">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
