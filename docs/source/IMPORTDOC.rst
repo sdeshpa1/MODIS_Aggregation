@@ -19,3 +19,15 @@ Once your project is created, you'll need to manually configure the repository w
 Note
 
 The Admin page can be found at https://readthedocs.org/dashboard/<project-slug>/edit/. You can access all of the project settings from the admin page sidebar.
+
+Building your documentation
+-------------------------------
+Within a few seconds of completing the import process, your code will automatically be fetched from your public repository, and the documentation will be built. Check out our `Build Process <https://docs.readthedocs.io/en/stable/builds.html>`_ page to learn more about how Read the Docs builds your docs, and to troubleshoot any issues that arise.
+
+Some documentation projects require additional configuration to build such as specifying a certain version of Python or installing additional dependencies. You can configure these settings in a readthedocs.yml file. See our `Configuration File <https://docs.readthedocs.io/en/stable/config-file/index.html>`_ docs for more details.
+
+It is also important to note that the default version of Sphinx is v1.8.5. If choosing to build your documentation other than this, it must be specified in a requirements.txt file.
+
+Read the Docs will host multiple versions of your code. You can read more about how to use this well on our `Versioned Documentation <https://docs.readthedocs.io/en/stable/versions.html>`_ page.
+
+If you have any more trouble, don't hesitate to reach out to us. The `Support <https://docs.readthedocs.io/en/stable/support.html>`_ page has more information on getting in touch.
