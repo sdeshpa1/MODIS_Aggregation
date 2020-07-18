@@ -15,4 +15,5 @@ distributed
 xarray
 h5py
 mpi4py
+pandas
 
