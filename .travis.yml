@@ -25,21 +25,21 @@ before_install:
 
 #env:
 #  global:
-#    # List package dependencies for conda
-#    - CONDA_DEPS="netCDF4 dask distributed xarray h5py mpi4py"
-#    # package name for test invocation
-#    - PACKAGENAME="MODIS_Aggregation"
+    # List package dependencies for conda
+    - CONDA_DEPS="netCDF4 dask distributed xarray h5py mpi4py"
+    # package name for test invocation
+    - PACKAGENAME="MODIS_Aggregation"
 
-install:
-    - pip install mpich
-    - pip install mpi4py
-    - pip install -r requirements_dev.txt
+#install:
+#    - pip install mpich
+#    - pip install mpi4py
+#    - pip install -r requirements_dev.txt
 
 
 ## Command to install dependencies, e.g. pip install -r requirements.txt --use-mirrors
-#install:
-#    - pip install -r requirements_dev.txt
-#    #pip install -U tox-travis
+install:
+    - pip install -r requirements_dev.txt
+    - pip install -U tox-travis
 #
 # Command to run tests, e.g. python setup.py test
 script: python setup.py
