@@ -29,7 +29,7 @@ before_install:
 #    # package name for test invocation
 #    - PACKAGENAME="MODIS_Aggregation"
 
-install: pip install -r requirement_dev.txt
+install: pip install -r requirements_dev.txt
 
 ## Command to install dependencies, e.g. pip install -r requirements.txt --use-mirrors
 #install:
