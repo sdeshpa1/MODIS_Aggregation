@@ -31,7 +31,6 @@ before_install:
 #    - PACKAGENAME="MODIS_Aggregation"
 
 install: pip install -r requirements_dev.txt
-    - pip install mpi4py
 
 
 ## Command to install dependencies, e.g. pip install -r requirements.txt --use-mirrors
@@ -40,7 +39,7 @@ install: pip install -r requirements_dev.txt
 #    #pip install -U tox-travis
 #
 # Command to run tests, e.g. python setup.py test
-script: pytest
+script: python setup.py
 
 # Assuming you have installed the travis-ci CLI tool, after you
 # create the Github repo and add it to Travis, run the
