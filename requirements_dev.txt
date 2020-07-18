@@ -14,5 +14,6 @@ dask
 distributed
 xarray
 h5py
+libopenmpi-dev
 mpi4py
 
