@@ -4,10 +4,10 @@
 
 
 import unittest
-from click.testing import CliRunner
+#from click.testing import CliRunner
 
-from MODIS import MODIS
-from MODIS import cli
+from MODIS_Aggregation import *
+from MODIS_Aggregation import cli
 
 
 class TestModis(unittest.TestCase):
