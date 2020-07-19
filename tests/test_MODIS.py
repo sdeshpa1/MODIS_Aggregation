@@ -14,7 +14,7 @@
 
 
 import unittest
-from MODIS_Aggregation import *
+from MODIS_Aggregation.MODIS_Aggregation import *
 
 
 class getFilePathTest(unittest.TestCase):
