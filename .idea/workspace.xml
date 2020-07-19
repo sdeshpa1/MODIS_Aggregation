@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tests/context.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MODIS_Aggregation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/MODIS_Aggregation/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/context.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/context.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_MODIS.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_MODIS.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,13 +83,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592319933812</updated>
-    </task>
-    <task id="LOCAL-00013" summary="modis_cfa_test file updated">
-      <created>1592927096969</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1592927096969</updated>
     </task>
     <task id="LOCAL-00014" summary="Changes in README.md">
       <created>1592927273598</created>
@@ -427,7 +420,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595192597532</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="test_MODIS.py file changed">
+      <created>1595193843763</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1595193843763</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -460,18 +460,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="test_MODIS.py file changed" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595192888616">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595193837162">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1595192888616" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1595193837162" />
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595193682041">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1595193682041" />
-    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1595192595971">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1595193842478">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1595192595971" />
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1595193842478" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1595192887304">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -496,10 +496,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593024852570" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1595192601765">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1595193846833">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1595192601765" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1595193846833" />
     <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593887264975">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
