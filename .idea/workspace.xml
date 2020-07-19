@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/IMPORTDOC.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/IMPORTDOC.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/modis_cfa.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/modis_cfa.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +22,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dmDJNeQszdcwiKa6Uohfj1v3X6" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -34,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/source" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/examples/modis_cfa.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -62,7 +62,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/modis_cfa_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/modis_cfa.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -459,34 +459,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="index.rst changed" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594242364070">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595192227239">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1594242364070" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1595192227238" />
     <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1594773915248">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1594773915248" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1593976652869">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1595192225256">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1593976652869" />
-    <state width="1259" height="3" key="GridCell.Tab.0.bottom" timestamp="1594245792513">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595192225256" />
+    <state width="1259" height="33" key="GridCell.Tab.0.bottom" timestamp="1595192051239">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="3" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1594245792513" />
-    <state width="1259" height="3" key="GridCell.Tab.0.center" timestamp="1594245792513">
+    <state width="1259" height="33" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595192051239" />
+    <state width="1259" height="33" key="GridCell.Tab.0.center" timestamp="1595192051239">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="3" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1594245792513" />
-    <state width="1259" height="3" key="GridCell.Tab.0.left" timestamp="1594245792513">
+    <state width="1259" height="33" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595192051239" />
+    <state width="1259" height="33" key="GridCell.Tab.0.left" timestamp="1595192051239">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="3" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1594245792513" />
-    <state width="1259" height="3" key="GridCell.Tab.0.right" timestamp="1594245792513">
+    <state width="1259" height="33" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595192051239" />
+    <state width="1259" height="33" key="GridCell.Tab.0.right" timestamp="1595192051239">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="3" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1594245792513" />
+    <state width="1259" height="33" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595192051239" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1593024852570">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

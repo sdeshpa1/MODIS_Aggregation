@@ -1,9 +1,7 @@
-from MODIS_Aggregation import *
 import time
 import glob
 import xarray as xr
-
-from MODIS_Aggregation.MODIS_Aggregation import *
+from MODIS_Aggregation import *
 
 if __name__ == '__main__':
     M03_dir, M06_dir = getInputDirectories()
