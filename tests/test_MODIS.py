@@ -1,17 +1,32 @@
+# import unittest
+#
+# class TruthTest(unittest.TestCase):
+#
+#     def test_assert_true(self):
+#         self.assertTrue(True)
+#
+#     def test_assert_false(self):
+#         self.assertFalse(False)
+#
+#
+# if __name__ == '__main__':
+#     unittest.main()
+
+
 import unittest
+from MODIS_Aggregation import *
 
-class TruthTest(unittest.TestCase):
 
-    def test_assert_true(self):
-        self.assertTrue(True)
+class getFilePathTest(unittest.TestCase):
 
-    def test_assert_false(self):
-        self.assertFalse(False)
+    def test_valid_file_path(self):
+        x, y = getInputDirectories()
+        self.assertIsNotNone(x)
+        self.assertIsNotNone(y)
 
 
 if __name__ == '__main__':
     unittest.main()
-
 
 # #!/usr/bin/env python
 #
