@@ -1,20 +1,5 @@
-# import unittest
-#
-# class TruthTest(unittest.TestCase):
-#
-#     def test_assert_true(self):
-#         self.assertTrue(True)
-#
-#     def test_assert_false(self):
-#         self.assertFalse(False)
-#
-#
-# if __name__ == '__main__':
-#     unittest.main()
-
-
 import unittest
-from MODIS_Aggregation import *
+from MODIS_Aggregation import getInputDirectories
 
 class getFilePathTest(unittest.TestCase):
 
@@ -60,3 +45,20 @@ if __name__ == '__main__':
 #         help_result = runner.invoke(cli.main, ['--help'])
 #         assert help_result.exit_code == 0
 #         assert '--help  Show this message and exit.' in help_result.output
+
+# ------------------------------------------------------------------------
+
+# import unittest
+#
+# class TruthTest(unittest.TestCase):
+#
+#     def test_assert_true(self):
+#         self.assertTrue(True)
+#
+#     def test_assert_false(self):
+#         self.assertFalse(False)
+#
+#
+# if __name__ == '__main__':
+#     unittest.main()
+

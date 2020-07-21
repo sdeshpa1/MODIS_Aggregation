@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/context.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_MODIS.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_MODIS.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,13 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592319933812</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Changed the sequence of functions in init file">
-      <created>1592928953995</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1592928953995</updated>
     </task>
     <task id="LOCAL-00016" summary="test file changed">
       <created>1592929067668</created>
@@ -428,12 +419,18 @@
       <option name="project" value="LOCAL" />
       <updated>1595194873887</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="conftest.py ADD">
+      <created>1595195346745</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1595195346745</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="modis_cfa_test file updated" />
     <MESSAGE value="Changes in README.md" />
     <MESSAGE value="Changed the sequence of functions in init file" />
     <MESSAGE value="test file changed" />
@@ -458,7 +455,8 @@
     <MESSAGE value="FEATURES.rst changed" />
     <MESSAGE value="index.rst changed" />
     <MESSAGE value="test_MODIS.py file changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="test_MODIS.py file changed" />
+    <MESSAGE value="conftest.py ADD" />
+    <option name="LAST_COMMIT_MESSAGE" value="conftest.py ADD" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595193837162">
@@ -469,38 +467,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1595195236162" />
-    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1595194872537">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1595195345235">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1595194872537" />
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1595195345235" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1595192887304">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595192887304" />
-    <state width="1259" height="191" key="GridCell.Tab.0.bottom" timestamp="1595192890723">
+    <state width="1259" height="191" key="GridCell.Tab.0.bottom" timestamp="1595272999028">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="191" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595192890723" />
-    <state width="1259" height="191" key="GridCell.Tab.0.center" timestamp="1595192890723">
+    <state width="1259" height="191" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595272999028" />
+    <state width="1259" height="191" key="GridCell.Tab.0.center" timestamp="1595272999028">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="191" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595192890723" />
-    <state width="1259" height="191" key="GridCell.Tab.0.left" timestamp="1595192890722">
+    <state width="1259" height="191" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595272999028" />
+    <state width="1259" height="191" key="GridCell.Tab.0.left" timestamp="1595272999027">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="191" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595192890722" />
-    <state width="1259" height="191" key="GridCell.Tab.0.right" timestamp="1595192890723">
+    <state width="1259" height="191" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595272999027" />
+    <state width="1259" height="191" key="GridCell.Tab.0.right" timestamp="1595272999028">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="191" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595192890723" />
+    <state width="1259" height="191" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595272999028" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1593024852570">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593024852570" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1595194876453">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1595195349354">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1595194876453" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1595195349354" />
     <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593887264975">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -509,5 +507,15 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1594132967727" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MODIS_Aggregation/cloud_fraction_aggregate.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
