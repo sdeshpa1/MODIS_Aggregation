@@ -1,5 +1,7 @@
 import unittest
 from MODIS_Aggregation import getInputDirectories
+from MODIS_Aggregation import aggregateOneFileData
+from MODIS_Aggregation import displayOutput
 
 class getFilePathTest(unittest.TestCase):
 
@@ -8,6 +10,19 @@ class getFilePathTest(unittest.TestCase):
         self.assertIsNotNone(x)
         self.assertIsNotNone(y)
 
+    def test_invalid_file_path(self):
+        x, y = getInputDirectories()
+        self.assertIsNone(x)
+        self.assertIsNone(y)
+
+    # def test_valid_aggregate_data(self):
+    #     a,b = aggregateOneFileData()
+    #     self.assertIsNotNone(a)
+    #     self.assertIsNotNone(b)
+    #
+    # def test_display_output(self):
+    #     p = displayOutput(self)
+    #     self.assertIsNotNone(displayOutput(cf))
 
 if __name__ == '__main__':
     unittest.main()
