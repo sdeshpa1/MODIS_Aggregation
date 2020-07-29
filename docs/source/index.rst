@@ -8,6 +8,11 @@ Welcome to MODIS_Aggregation's documentation!
    IMPORTDOC.rst
    FEATURES.rst
    Installation.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Getting Started:
+
    README.rst
    CONTRIBUTING.rst
    AUTHORS.rst
