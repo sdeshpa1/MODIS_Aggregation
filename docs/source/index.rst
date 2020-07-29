@@ -11,7 +11,7 @@ Welcome to MODIS_Aggregation's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Getting Started:
+   :caption: MODIS_Aggregation:
 
    README.rst
    CONTRIBUTING.rst
