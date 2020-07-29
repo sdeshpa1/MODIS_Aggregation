@@ -1,4 +1,4 @@
-Getting Started with Sphinx
+Overview: What is Sphinx?
 =============================
 Sphinx is a powerful documentation generator that has many great features for writing technical documentation including:
 

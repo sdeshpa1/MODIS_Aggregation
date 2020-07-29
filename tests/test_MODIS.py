@@ -10,10 +10,10 @@ class getFilePathTest(unittest.TestCase):
         self.assertIsNotNone(x)
         self.assertIsNotNone(y)
 
-    def test_invalid_file_path(self):
-        x, y = getInputDirectories()
-        self.assertIsNone(x)
-        self.assertIsNone(y)
+    # def test_invalid_file_path(self):
+    #     x, y = getInputDirectories()
+    #     self.assertIsNone(x)
+    #     self.assertIsNone(y)
 
     # def test_valid_aggregate_data(self):
     #     a,b = aggregateOneFileData()

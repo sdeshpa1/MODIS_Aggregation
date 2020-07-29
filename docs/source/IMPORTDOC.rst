@@ -1,5 +1,8 @@
-Importing Your Documentation
+Overview: Read the Docs
 =============================
+
+Importing Your Documentation
+------------------------------
 To import a public documentation repository, visit your `Read the Docs dashboard <https://readthedocs.org/>`_ and click Import. For private repositories, please use `Read the Docs for Business <https://docs.readthedocs.io/en/stable/commercial/index.html>`_
 
 If you have `connected your Read the Docs account <https://docs.readthedocs.io/en/stable/connected-accounts.html>`_ to GitHub, Bitbucket, or GitLab, you will see a list of your repositories that we are able to import. To import one of these projects, just click the import icon next to the repository you’d like to import. This will bring up a form that is already filled with your project’s information. Feel free to edit any of these properties, and then click Next to :ref:`build your documentation </IMPORTDOC:Building your documentation>`.
