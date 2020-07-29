@@ -7,6 +7,7 @@ Welcome to MODIS_Aggregation's documentation!
    SPHINX.rst
    IMPORTDOC.rst
    FEATURES.rst
+   Installation.rst
    README.rst
    CONTRIBUTING.rst
    AUTHORS.rst
