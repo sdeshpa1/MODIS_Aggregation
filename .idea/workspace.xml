@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/source/Examples.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/AUTHORS.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/AUTHORS.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/Installation.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/Installation.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/README.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/source/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/index.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,13 +83,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592319933812</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Chnaged MODIS to MODIS_Aggregation">
-      <created>1593651036734</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1593651036734</updated>
     </task>
     <task id="LOCAL-00022" summary="Chnaged MODIS to MODIS_Aggregation">
       <created>1593651108541</created>
@@ -429,7 +420,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596057515901</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="index.rst changed">
+      <created>1596058424505</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1596058424505</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -470,10 +468,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1595195236162" />
-    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1596057514412">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1596058423506">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596057514412" />
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596058423506" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1595192887304">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -498,10 +496,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593024852570" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1596057518583">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1596058426880">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1596057518583" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1596058426880" />
     <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593887264975">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
