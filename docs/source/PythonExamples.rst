@@ -1,20 +1,29 @@
+.. toctree::
+    :maxdepth: 2
+
+    Python/CheckNumber
+
 Python Programming Examples
 ================================
 
+
+
+
 Python Program to Check if a Number is Positive, Negative or 0
 ---------------------------------------------------------------
-:guilable:`num = float(input("Enter a number: "))
+
+num = float(input("Enter a number: "))
 if num >= 0:
    if num == 0:
        print("Zero")
    else:
        print("Positive number")
 else:
-   print("Negative number")`
+   print("Negative number")
 
-:guilable:`Output 1:
+Output 1:
 Enter a number: 2
-Positive number`
+Positive number
 
 Output 2:
 Enter a number: 0
