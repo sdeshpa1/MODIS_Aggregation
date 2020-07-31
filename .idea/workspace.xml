@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/source/CheckNumber.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Python/CheckNumber.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/conf.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/source/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/index.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +46,8 @@
       <recent name="C:\Users\pwalk\PycharmProjects\MODIS_Aggregation\MODIS\MODIS" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation\docs\Python" />
       <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation\docs\source" />
+      <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation\docs\Python" />
       <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation\docs" />
       <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation_Master\MODIS_Aggregation\docs\source" />
       <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation_Master\MODIS_Aggregation" />
@@ -85,13 +86,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592319933812</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Edited conf.py file">
-      <created>1594131689205</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1594131689205</updated>
     </task>
     <task id="LOCAL-00032" summary="Edited README.rst">
       <created>1594133018972</created>
@@ -429,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596077145673</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="index.rst changed">
+      <created>1596077294821</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1596077294821</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -457,9 +458,9 @@
     <MESSAGE value="test_MODIS.py changed" />
     <MESSAGE value="SPHINX.rst, IMPORTDOC.rst, FEATURES.rst, index.rst changed" />
     <MESSAGE value="Created Installation.rst" />
-    <MESSAGE value="index.rst changed" />
     <MESSAGE value="index.rst &amp; Example.rst changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="index.rst &amp; Example.rst changed" />
+    <MESSAGE value="index.rst changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="index.rst changed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595193837162">
@@ -474,10 +475,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1595195236162" />
-    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1596077144278">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1596077293883">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596077144278" />
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596077293883" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1595192887304">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -502,10 +503,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593024852570" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1596077148014">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1596077297119">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1596077148014" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1596077297119" />
     <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593887264975">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
