@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/source/PythonExamples.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/PythonExamples.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/Python/CheckNumber.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/CheckNumber.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/source/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/index.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,18 +38,18 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation_Master\MODIS_Aggregation\docs\source" />
-      <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation\MODIS_Aggregation\MODIS" />
-      <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation\MODIS_Aggregation" />
-      <recent name="C:\Users\pwalk\PycharmProjects\MODIS_Aggregation\MODIS\MODIS" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation\docs\source" />
       <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation\docs\Python" />
       <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation\docs" />
       <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation_Master\MODIS_Aggregation\docs\source" />
       <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation_Master\MODIS_Aggregation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation_Master\MODIS_Aggregation\docs\source" />
+      <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation\MODIS_Aggregation\MODIS" />
+      <recent name="C:\Users\pwalk\OneDrive\Desktop\MODIS_Aggregation\MODIS_Aggregation" />
+      <recent name="C:\Users\pwalk\PycharmProjects\MODIS_Aggregation\MODIS\MODIS" />
     </key>
   </component>
   <component name="RunManager">
@@ -84,13 +85,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592319933812</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Edited travis.yml">
-      <created>1594214475427</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1594214475427</updated>
     </task>
     <task id="LOCAL-00034" summary="Edited travis.yml">
       <created>1594214659475</created>
@@ -428,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596225540622</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="index.rst changed">
+      <created>1596225648584</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1596225648584</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -473,10 +474,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1595195236162" />
-    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1596225539717">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1596225647827">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596225539717" />
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596225647827" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1595192887304">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
