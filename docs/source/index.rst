@@ -1,18 +1,18 @@
 Welcome to MODIS_Aggregation's documentation!
 =============================================
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :hidden:
    :caption: Getting Started:
 
    SPHINX.rst
    IMPORTDOC.rst
    FEATURES.rst
-   CheckNumber
+   CheckNumber.ipynb
    Installation.rst
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: MODIS_Aggregation:
 
    README.rst
