@@ -31,7 +31,8 @@ release = '0.0.1'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'nbsphinx'
+    'nbsphinx',
+    'sphinx.ext.mathjax'
 ]
 
 # I execute the notebooks manually in advance. If notebooks test the code,
