@@ -31,14 +31,13 @@ release = '0.0.1'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.mathjax'
     'nbsphinx'
 ]
 
 # I execute the notebooks manually in advance. If notebooks test the code,
 # they should be run at build time.
-nbsphinx_execute = 'never'
-nbsphinx_allow_errors = True
+# nbsphinx_execute = 'never'
+# nbsphinx_allow_errors = True
 
 # Add type of source files
 source_suffix = ['.rst', '.md', '.ipynb']
@@ -49,7 +48,7 @@ templates_path = ['_templates']
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = []
+exclude_patterns = ['_build']
 
 
 # -- Options for HTML output -------------------------------------------------
