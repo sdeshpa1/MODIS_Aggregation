@@ -1,7 +1,6 @@
 import numpy as np
 import xarray as xr
 import matplotlib.pyplot as plt
-import netCDF4
 
 
 def aggregateOneFileData(M06_file, M03_file):
