@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/requirements_dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements_dev.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/monthlyCloudFraction-file-level-for-loop.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/monthlyCloudFraction-file-level-for-loop.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,13 +88,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592319933812</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Travis YML changed">
-      <created>1594217618697</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1594217618697</updated>
     </task>
     <task id="LOCAL-00042" summary="Travis YML changed">
       <created>1594217937689</created>
@@ -428,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596388380828</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="Added Pytest to requirements_dev.txt">
+      <created>1596388809248</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1596388809248</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -473,38 +477,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1595195236162" />
-    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1596388379426">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1596388808084">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596388379426" />
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596388808084" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1596388045907">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1596388045907" />
-    <state width="1259" height="146" key="GridCell.Tab.0.bottom" timestamp="1595517588367">
+    <state width="1259" height="19" key="GridCell.Tab.0.bottom" timestamp="1596390091562">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="146" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595517588367" />
-    <state width="1259" height="146" key="GridCell.Tab.0.center" timestamp="1595517588366">
+    <state width="1259" height="19" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596390091562" />
+    <state width="1259" height="19" key="GridCell.Tab.0.center" timestamp="1596390091562">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="146" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595517588366" />
-    <state width="1259" height="146" key="GridCell.Tab.0.left" timestamp="1595517588366">
+    <state width="1259" height="19" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596390091562" />
+    <state width="1259" height="19" key="GridCell.Tab.0.left" timestamp="1596390091562">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="146" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595517588366" />
-    <state width="1259" height="146" key="GridCell.Tab.0.right" timestamp="1595517588367">
+    <state width="1259" height="19" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596390091562" />
+    <state width="1259" height="19" key="GridCell.Tab.0.right" timestamp="1596390091562">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="146" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595517588367" />
+    <state width="1259" height="19" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596390091562" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1593024852570">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593024852570" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1596388382936">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1596388811224">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1596388382936" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1596388811224" />
     <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593887264975">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
