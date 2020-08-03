@@ -10,10 +10,18 @@ class getFilePathTest(unittest.TestCase):
         self.assertIsNotNone(x)
         self.assertIsNotNone(y)
 
-    def test_invalid_file_path(self):
-        x, y = getInputDirectories()
-        self.assertIsNone(x)
-        self.assertIsNone(y)
+class TruthTest(unittest.TestCase):
+
+    def test_assert_true(self):
+            self.assertTrue(True)
+
+    def test_assert_false(self):
+            self.assertFalse(False)
+
+    # def test_invalid_file_path(self):
+    #     x, y = getInputDirectories()
+    #     self.assertIsNone(x)
+    #     self.assertIsNone(y)
 
     # def test_valid_aggregate_data(self):
     #     a,b = aggregateOneFileData()
@@ -63,17 +71,4 @@ if __name__ == '__main__':
 
 # ------------------------------------------------------------------------
 
-# import unittest
-#
-# class TruthTest(unittest.TestCase):
-#
-#     def test_assert_true(self):
-#         self.assertTrue(True)
-#
-#     def test_assert_false(self):
-#         self.assertFalse(False)
-#
-#
-# if __name__ == '__main__':
-#     unittest.main()
 

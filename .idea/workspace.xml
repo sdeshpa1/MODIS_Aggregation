@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/examples/monthlyCloudFraction-file-level-for-loop.nc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/monthlyCloudFraction-file-level-for-loop.png" afterDir="false" />
+    <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="chnaged test_MODIS.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_MODIS.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_MODIS.py" afterDir="false" />
     </list>
@@ -36,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/examples/modis_cfa.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/test_MODIS.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -63,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/modis_cfa.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/test_MODIS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,13 +85,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592319933812</updated>
-    </task>
-    <task id="LOCAL-00044" summary="README.rst changes">
-      <created>1594242613134</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1594242613134</updated>
     </task>
     <task id="LOCAL-00045" summary="README.rst changes">
       <created>1594242761016</created>
@@ -431,12 +422,18 @@
       <option name="project" value="LOCAL" />
       <updated>1596460273013</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="chnaged test_MODIS.py">
+      <created>1596496467210</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1596496467211</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Structure Changes" />
     <MESSAGE value="Sphinx added" />
     <MESSAGE value="Delete Spx files" />
     <MESSAGE value="Sphinx Html file created" />
@@ -461,13 +458,14 @@
     <MESSAGE value="index.rst changed" />
     <MESSAGE value="README.md file changed" />
     <MESSAGE value="Added Pytest to requirements_dev.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Pytest to requirements_dev.txt" />
+    <MESSAGE value="chnaged test_MODIS.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="chnaged test_MODIS.py" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596388048343">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596496921986">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1596388048343" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1596496921986" />
     <state x="373" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596060414464">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -476,14 +474,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1595195236162" />
-    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1596460272295">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1596496887311">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596460272295" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1596388045907">
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596496887311" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1596496920246">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1596388045907" />
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1596496920246" />
     <state width="1259" height="199" key="GridCell.Tab.0.bottom" timestamp="1596460689964">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -504,10 +502,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593024852570" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1596460276127">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1596496471462">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1596460276127" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1596496471462" />
     <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593887264975">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
