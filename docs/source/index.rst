@@ -8,7 +8,7 @@ Welcome to MODIS_Aggregation's documentation!
    SPHINX.rst
    IMPORTDOC.rst
    FEATURES.rst
-   PYTHONEXAMPLES.rst
+   PYTHON.rst
    Installation.rst
 
 .. toctree::

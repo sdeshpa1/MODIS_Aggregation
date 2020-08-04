@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/source/PYTHON.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/source/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/index.rst" afterDir="false" />
     </list>
@@ -85,13 +86,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592319933812</updated>
-    </task>
-    <task id="LOCAL-00063" summary="test_MODIS.py file changed">
-      <created>1595194873887</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1595194873887</updated>
     </task>
     <task id="LOCAL-00064" summary="conftest.py ADD">
       <created>1595195346745</created>
@@ -429,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596575994294</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="updated index.rst">
+      <created>1596576573959</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1596576573959</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -455,11 +456,11 @@
     <MESSAGE value="Added Pytest to requirements_dev.txt" />
     <MESSAGE value="chnaged test_MODIS.py" />
     <MESSAGE value="chnaged index.rst" />
-    <MESSAGE value="updated index.rst" />
     <MESSAGE value="updated conf.py" />
     <MESSAGE value="updated test_MODIS.py" />
     <MESSAGE value="updated travis.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated travis.yml" />
+    <MESSAGE value="updated index.rst" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated index.rst" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596572884970">
@@ -474,10 +475,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1595195236162" />
-    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1596575992682">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1596576572482">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596575992682" />
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596576572482" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1596572883041">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -502,10 +503,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593024852570" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1596575997868">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1596576576301">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1596575997868" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1596576576301" />
     <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593887264975">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
