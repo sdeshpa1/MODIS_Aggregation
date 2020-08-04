@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MODIS_Aggregation/checkaddition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_addition.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MODIS_Aggregation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/MODIS_Aggregation/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/test_MODIS.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/test_addition.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -65,7 +68,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/test_MODIS.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/test_addition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,13 +88,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592319933812</updated>
-    </task>
-    <task id="LOCAL-00059" summary="index.rst changed">
-      <created>1595192262579</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1595192262579</updated>
     </task>
     <task id="LOCAL-00060" summary="index.rst changed">
       <created>1595192367430</created>
@@ -429,12 +425,18 @@
       <option name="project" value="LOCAL" />
       <updated>1596569669383</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="updated test_MODIS.py">
+      <created>1596570767586</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1596570767586</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Edited conf.py file" />
     <MESSAGE value="Edited README.rst" />
     <MESSAGE value="Edited travis.yml" />
     <MESSAGE value="Edited requirements_dev.txt file" />
@@ -459,13 +461,14 @@
     <MESSAGE value="chnaged index.rst" />
     <MESSAGE value="updated index.rst" />
     <MESSAGE value="updated conf.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated conf.py" />
+    <MESSAGE value="updated test_MODIS.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated test_MODIS.py" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596496921986">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596572884970">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1596496921986" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1596572884970" />
     <state x="373" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596060414464">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -474,38 +477,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1595195236162" />
-    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1596569668598">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1596570766745">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596569668598" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1596496920246">
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596570766745" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1596572883041">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1596496920246" />
-    <state width="1259" height="199" key="GridCell.Tab.0.bottom" timestamp="1596565157526">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1596572883041" />
+    <state width="629" height="199" key="GridCell.Tab.0.bottom" timestamp="1596573682605">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="199" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596565157526" />
-    <state width="1259" height="199" key="GridCell.Tab.0.center" timestamp="1596565157525">
+    <state width="629" height="199" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596573682605" />
+    <state width="629" height="199" key="GridCell.Tab.0.center" timestamp="1596573682605">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="199" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596565157525" />
-    <state width="1259" height="199" key="GridCell.Tab.0.left" timestamp="1596565157525">
+    <state width="629" height="199" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596573682605" />
+    <state width="629" height="199" key="GridCell.Tab.0.left" timestamp="1596573682604">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="199" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596565157525" />
-    <state width="1259" height="199" key="GridCell.Tab.0.right" timestamp="1596565157526">
+    <state width="629" height="199" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596573682604" />
+    <state width="629" height="199" key="GridCell.Tab.0.right" timestamp="1596573682605">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="199" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596565157526" />
+    <state width="629" height="199" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596573682605" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1593024852570">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593024852570" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1596569672236">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1596570771252">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1596569672236" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1596570771252" />
     <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593887264975">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
