@@ -4,20 +4,20 @@ Welcome to MODIS_Aggregation's documentation!
    :maxdepth: 2
    :caption: Getting Started:
 
-   SPHINX.rst
-   IMPORTDOC.rst
-   FEATURES.rst
-   PYTHONEXAMPLES.rst
-   Installation.rst
+   SPHINX
+   IMPORTDOC
+   FEATURES
+   PYTHONEXAMPLES
+   Installation
 
 .. toctree::
    :maxdepth: 2
    :caption: MODIS_Aggregation:
 
-   README.rst
-   CONTRIBUTING.rst
-   AUTHORS.rst
-   HISTORY.rst
+   README
+   CONTRIBUTING
+   AUTHORS
+   HISTORY
 
 Indices and tables
 ==================
