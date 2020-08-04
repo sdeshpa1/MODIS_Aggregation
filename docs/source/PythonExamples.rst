@@ -1,4 +1,4 @@
-Python Programming Examples
+Python Examples
 ================================
 Below are some of the Python Examples for reference:
 

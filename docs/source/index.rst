@@ -11,7 +11,7 @@ Welcome to MODIS_Aggregation's documentation!
    Installation.rst
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: MODIS_Aggregation:
 
    README.rst
