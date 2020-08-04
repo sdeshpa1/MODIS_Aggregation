@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/PythonExamples.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/PythonExamples.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/source/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/index.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,13 +84,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592319933812</updated>
-    </task>
-    <task id="LOCAL-00052" summary="README.rst and index.rst changes">
-      <created>1594766584358</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1594766584358</updated>
     </task>
     <task id="LOCAL-00053" summary="README.rst and index.rst changes">
       <created>1594767695228</created>
@@ -430,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596559005004</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="chnaged index.rst">
+      <created>1596565209578</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1596565209579</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -475,10 +473,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1595195236162" />
-    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1596559003496">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1596565208397">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596559003496" />
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596565208397" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1596496920246">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -503,10 +501,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593024852570" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1596559007252">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1596565212658">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1596559007252" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1596565212658" />
     <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593887264975">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
