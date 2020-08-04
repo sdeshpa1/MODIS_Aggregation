@@ -2,7 +2,6 @@ Welcome to MODIS_Aggregation's documentation!
 =============================================
 .. toctree::
    :maxdepth: 2
-   :hidden:
    :caption: Getting Started:
 
    SPHINX.rst
