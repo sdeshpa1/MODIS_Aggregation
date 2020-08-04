@@ -12,7 +12,7 @@
 #
 import os
 import sys
-sys.path.insert(0, os.path.abspath('.'))
+sys.path.insert(0, os.path.abspath(''))
 
 
 # -- Project information -----------------------------------------------------
@@ -37,7 +37,7 @@ extensions = [
 # they should be run at build time.
 
 # Add type of source files
-source_suffix = []
+source_suffix = ['.rst']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
