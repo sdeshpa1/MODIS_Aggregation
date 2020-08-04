@@ -8,6 +8,7 @@ class CheckAdd(unittest.TestCase):
         result = checkaddition.addition(3, 2)
         expected = 5
         self.assertEqual(expected, result, msg=None)
+        print(result)
 
 
 if __name__ == '__main__':
