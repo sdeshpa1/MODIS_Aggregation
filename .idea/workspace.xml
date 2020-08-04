@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34f25aae-5ff6-4e3e-abdb-296a68fa6bc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MODIS_Aggregation/checkaddition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_addition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MODIS_Aggregation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/MODIS_Aggregation/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,13 +84,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592319933812</updated>
-    </task>
-    <task id="LOCAL-00060" summary="index.rst changed">
-      <created>1595192367430</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1595192367430</updated>
     </task>
     <task id="LOCAL-00061" summary="test_MODIS.py file changed">
       <created>1595192597532</created>
@@ -432,12 +421,18 @@
       <option name="project" value="LOCAL" />
       <updated>1596570767586</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="updated travis.yml">
+      <created>1596573770769</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1596573770769</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Edited README.rst" />
     <MESSAGE value="Edited travis.yml" />
     <MESSAGE value="Edited requirements_dev.txt file" />
     <MESSAGE value="Edited travis.yml file" />
@@ -462,7 +457,8 @@
     <MESSAGE value="updated index.rst" />
     <MESSAGE value="updated conf.py" />
     <MESSAGE value="updated test_MODIS.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated test_MODIS.py" />
+    <MESSAGE value="updated travis.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated travis.yml" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596572884970">
@@ -477,10 +473,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1595195236162" />
-    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1596570766745">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1596573769924">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596570766745" />
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596573769924" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1596572883041">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -505,10 +501,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593024852570" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1596570771252">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1596573773614">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1596570771252" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1596573773614" />
     <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593887264975">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
